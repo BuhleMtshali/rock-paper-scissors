@@ -10,3 +10,10 @@ body {
   margin-top: 90px;
   border-radius: 30px;
 }
+h1 {
+  font-family: cursive;
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+  font-size: 35px;
+}
