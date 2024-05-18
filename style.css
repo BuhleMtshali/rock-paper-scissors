@@ -49,3 +49,7 @@ button:hover {
 .pink {
   color: #f72585;
 }
+#result-text {
+  color: #f72585;
+  font-family: cursive;
+}
