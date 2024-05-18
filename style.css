@@ -2,8 +2,8 @@ body {
   background-color: #bbd0ff;
 }
 .container {
-  width: 600px;
-  height: 600px;
+  width: 550px;
+  height: 500px;
   background-color: #b8c0ff;
   margin-left: auto;
   margin-right: auto;
@@ -16,4 +16,29 @@ h1 {
   color: white;
   padding-top: 20px;
   font-size: 35px;
+}
+.score-wrap {
+  display: flex;
+  font-family: cursive;
+  color: white;
+  justify-content: space-around;
+}
+span {
+  color: #f72585;
+}
+.play-buttons {
+  display: block;
+  text-align: center;
+  padding: 20px;
+}
+button {
+  padding: 15px 30px;
+  border: none;
+  border-radius: 10px;
+  margin: 10px;
+  font-family: cursive;
+  font-size: 20px;
+  color: #f72585;
+  font-weight: bold;
+  cursor: pointer;
 }
