@@ -42,3 +42,10 @@ button {
   font-weight: bold;
   cursor: pointer;
 }
+button:hover {
+  background-color: #f72585;
+  color: white;
+}
+.pink {
+  color: #f72585;
+}
