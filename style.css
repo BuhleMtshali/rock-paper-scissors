@@ -1,0 +1,12 @@
+body {
+  background-color: #bbd0ff;
+}
+.container {
+  width: 600px;
+  height: 600px;
+  background-color: #b8c0ff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 90px;
+  border-radius: 30px;
+}
